@@ -1,0 +1,543 @@
+SalesOrderID;OrderDate;TotalDue;ProductID;Product;StateProvince
+71774;2008-06-01;972.785;836;ML Road Frame-W - Yellow, 48;California
+71774;2008-06-01;972.785;822;ML Road Frame-W - Yellow, 38;California
+71776;2008-06-01;87.0851;907;Rear Brakes;England
+71780;2008-06-01;42452.6519;905;ML Mountain Frame-W - Silver, 42;England
+71780;2008-06-01;42452.6519;983;Mountain-400-W Silver, 46;England
+71780;2008-06-01;42452.6519;988;Mountain-500 Silver, 52;England
+71780;2008-06-01;42452.6519;748;HL Mountain Frame - Silver, 38;England
+71780;2008-06-01;42452.6519;990;Mountain-500 Black, 42;England
+71780;2008-06-01;42452.6519;926;LL Mountain Frame - Black, 48;England
+71780;2008-06-01;42452.6519;743;HL Mountain Frame - Black, 42;England
+71780;2008-06-01;42452.6519;782;Mountain-200 Black, 38;England
+71780;2008-06-01;42452.6519;918;LL Mountain Frame - Silver, 44;England
+71780;2008-06-01;42452.6519;780;Mountain-200 Silver, 42;England
+71780;2008-06-01;42452.6519;937;HL Mountain Pedal;England
+71780;2008-06-01;42452.6519;867;Women's Mountain Shorts, S;England
+71780;2008-06-01;42452.6519;985;Mountain-500 Silver, 42;England
+71780;2008-06-01;42452.6519;989;Mountain-500 Black, 40;England
+71780;2008-06-01;42452.6519;991;Mountain-500 Black, 44;England
+71780;2008-06-01;42452.6519;992;Mountain-500 Black, 48;England
+71780;2008-06-01;42452.6519;993;Mountain-500 Black, 52;England
+71780;2008-06-01;42452.6519;984;Mountain-500 Silver, 40;England
+71780;2008-06-01;42452.6519;986;Mountain-500 Silver, 44;England
+71780;2008-06-01;42452.6519;987;Mountain-500 Silver, 48;England
+71780;2008-06-01;42452.6519;981;Mountain-400-W Silver, 40;England
+71780;2008-06-01;42452.6519;982;Mountain-400-W Silver, 42;England
+71780;2008-06-01;42452.6519;783;Mountain-200 Black, 42;England
+71780;2008-06-01;42452.6519;809;ML Mountain Handlebars;England
+71780;2008-06-01;42452.6519;810;HL Mountain Handlebars;England
+71780;2008-06-01;42452.6519;935;LL Mountain Pedal;England
+71780;2008-06-01;42452.6519;925;LL Mountain Frame - Black, 44;England
+71780;2008-06-01;42452.6519;869;Women's Mountain Shorts, L;England
+71780;2008-06-01;42452.6519;880;Hydration Pack - 70 oz.;England
+71782;2008-06-01;43962.7901;714;Long-Sleeve Logo Jersey, M;California
+71782;2008-06-01;43962.7901;956;Touring-1000 Yellow, 54;California
+71782;2008-06-01;43962.7901;954;Touring-1000 Yellow, 46;California
+71782;2008-06-01;43962.7901;712;AWC Logo Cap;California
+71782;2008-06-01;43962.7901;877;Bike Wash - Dissolver;California
+71782;2008-06-01;43962.7901;996;HL Bottom Bracket;California
+71782;2008-06-01;43962.7901;864;Classic Vest, S;California
+71782;2008-06-01;43962.7901;876;Hitch Rack - 4-Bike;California
+71782;2008-06-01;43962.7901;959;Touring-3000 Blue, 58;California
+71782;2008-06-01;43962.7901;971;Touring-2000 Blue, 50;California
+71782;2008-06-01;43962.7901;870;Water Bottle - 30 oz.;California
+71782;2008-06-01;43962.7901;978;Touring-3000 Blue, 44;California
+71782;2008-06-01;43962.7901;955;Touring-1000 Yellow, 50;California
+71782;2008-06-01;43962.7901;948;Front Brakes;California
+71782;2008-06-01;43962.7901;994;LL Bottom Bracket;California
+71782;2008-06-01;43962.7901;970;Touring-2000 Blue, 46;California
+71782;2008-06-01;43962.7901;966;Touring-1000 Blue, 46;California
+71782;2008-06-01;43962.7901;884;Short-Sleeve Classic Jersey, XL;California
+71782;2008-06-01;43962.7901;885;HL Touring Frame - Yellow, 60;California
+71782;2008-06-01;43962.7901;715;Long-Sleeve Logo Jersey, L;California
+71782;2008-06-01;43962.7901;894;Rear Derailleur;California
+71782;2008-06-01;43962.7901;957;Touring-1000 Yellow, 60;California
+71782;2008-06-01;43962.7901;967;Touring-1000 Blue, 50;California
+71782;2008-06-01;43962.7901;708;Sport-100 Helmet, Black;California
+71782;2008-06-01;43962.7901;961;Touring-3000 Yellow, 44;California
+71782;2008-06-01;43962.7901;979;Touring-3000 Blue, 50;California
+71782;2008-06-01;43962.7901;958;Touring-3000 Blue, 54;California
+71782;2008-06-01;43962.7901;963;Touring-3000 Yellow, 54;California
+71782;2008-06-01;43962.7901;953;Touring-2000 Blue, 60;California
+71782;2008-06-01;43962.7901;968;Touring-1000 Blue, 54;California
+71782;2008-06-01;43962.7901;951;HL Crankset;California
+71782;2008-06-01;43962.7901;945;Front Derailleur;California
+71782;2008-06-01;43962.7901;916;HL Touring Seat/Saddle;California
+71782;2008-06-01;43962.7901;886;LL Touring Frame - Yellow, 62;California
+71782;2008-06-01;43962.7901;892;HL Touring Frame - Blue, 54;California
+71782;2008-06-01;43962.7901;893;HL Touring Frame - Blue, 60;California
+71782;2008-06-01;43962.7901;881;Short-Sleeve Classic Jersey, S;California
+71782;2008-06-01;43962.7901;883;Short-Sleeve Classic Jersey, L;California
+71782;2008-06-01;43962.7901;859;Half-Finger Gloves, M;California
+71782;2008-06-01;43962.7901;865;Classic Vest, M;California
+71782;2008-06-01;43962.7901;880;Hydration Pack - 70 oz.;California
+71782;2008-06-01;43962.7901;711;Sport-100 Helmet, Blue;California
+71782;2008-06-01;43962.7901;707;Sport-100 Helmet, Red;California
+71783;2008-06-01;92663.5609;738;LL Road Frame - Black, 52;California
+71783;2008-06-01;92663.5609;939;ML Road Pedal;California
+71783;2008-06-01;92663.5609;793;Road-250 Black, 44;California
+71783;2008-06-01;92663.5609;977;Road-750 Black, 58;California
+71783;2008-06-01;92663.5609;880;Hydration Pack - 70 oz.;California
+71783;2008-06-01;92663.5609;859;Half-Finger Gloves, M;California
+71783;2008-06-01;92663.5609;976;Road-350-W Yellow, 48;California
+71783;2008-06-01;92663.5609;714;Long-Sleeve Logo Jersey, M;California
+71783;2008-06-01;92663.5609;877;Bike Wash - Dissolver;California
+71783;2008-06-01;92663.5609;813;HL Road Handlebars;California
+71783;2008-06-01;92663.5609;881;Short-Sleeve Classic Jersey, S;California
+71783;2008-06-01;92663.5609;873;Patch Kit/8 Patches;California
+71783;2008-06-01;92663.5609;870;Water Bottle - 30 oz.;California
+71783;2008-06-01;92663.5609;822;ML Road Frame-W - Yellow, 38;California
+71783;2008-06-01;92663.5609;799;Road-550-W Yellow, 42;California
+71783;2008-06-01;92663.5609;858;Half-Finger Gloves, S;California
+71783;2008-06-01;92663.5609;860;Half-Finger Gloves, L;California
+71783;2008-06-01;92663.5609;864;Classic Vest, S;California
+71783;2008-06-01;92663.5609;938;LL Road Pedal;California
+71783;2008-06-01;92663.5609;883;Short-Sleeve Classic Jersey, L;California
+71783;2008-06-01;92663.5609;722;LL Road Frame - Black, 58;California
+71783;2008-06-01;92663.5609;884;Short-Sleeve Classic Jersey, XL;California
+71783;2008-06-01;92663.5609;998;Road-750 Black, 48;California
+71783;2008-06-01;92663.5609;999;Road-750 Black, 52;California
+71783;2008-06-01;92663.5609;797;Road-550-W Yellow, 38;California
+71783;2008-06-01;92663.5609;798;Road-550-W Yellow, 40;California
+71783;2008-06-01;92663.5609;801;Road-550-W Yellow, 48;California
+71783;2008-06-01;92663.5609;973;Road-350-W Yellow, 40;California
+71783;2008-06-01;92663.5609;974;Road-350-W Yellow, 42;California
+71783;2008-06-01;92663.5609;940;HL Road Pedal;California
+71783;2008-06-01;92663.5609;835;ML Road Frame-W - Yellow, 44;California
+71783;2008-06-01;92663.5609;836;ML Road Frame-W - Yellow, 48;California
+71783;2008-06-01;92663.5609;838;HL Road Frame - Black, 44;California
+71783;2008-06-01;92663.5609;718;HL Road Frame - Red, 44;California
+71783;2008-06-01;92663.5609;715;Long-Sleeve Logo Jersey, L;California
+71783;2008-06-01;92663.5609;716;Long-Sleeve Logo Jersey, XL;California
+71783;2008-06-01;92663.5609;875;Racing Socks, L;California
+71783;2008-06-01;92663.5609;865;Classic Vest, M;California
+71783;2008-06-01;92663.5609;712;AWC Logo Cap;California
+71783;2008-06-01;92663.5609;711;Sport-100 Helmet, Blue;California
+71783;2008-06-01;92663.5609;876;Hitch Rack - 4-Bike;California
+71783;2008-06-01;92663.5609;707;Sport-100 Helmet, Red;California
+71783;2008-06-01;92663.5609;708;Sport-100 Helmet, Black;California
+71784;2008-06-01;119960.824;711;Sport-100 Helmet, Blue;England
+71784;2008-06-01;119960.824;885;HL Touring Frame - Yellow, 60;England
+71784;2008-06-01;119960.824;954;Touring-1000 Yellow, 46;England
+71784;2008-06-01;119960.824;870;Water Bottle - 30 oz.;England
+71784;2008-06-01;119960.824;865;Classic Vest, M;England
+71784;2008-06-01;119960.824;970;Touring-2000 Blue, 46;England
+71784;2008-06-01;119960.824;959;Touring-3000 Blue, 58;England
+71784;2008-06-01;119960.824;714;Long-Sleeve Logo Jersey, M;England
+71784;2008-06-01;119960.824;712;AWC Logo Cap;England
+71784;2008-06-01;119960.824;972;Touring-2000 Blue, 54;England
+71784;2008-06-01;119960.824;877;Bike Wash - Dissolver;England
+71784;2008-06-01;119960.824;716;Long-Sleeve Logo Jersey, XL;England
+71784;2008-06-01;119960.824;965;Touring-3000 Yellow, 62;England
+71784;2008-06-01;119960.824;958;Touring-3000 Blue, 54;England
+71784;2008-06-01;119960.824;876;Hitch Rack - 4-Bike;England
+71784;2008-06-01;119960.824;899;LL Touring Frame - Yellow, 44;England
+71784;2008-06-01;119960.824;858;Half-Finger Gloves, S;England
+71784;2008-06-01;119960.824;889;HL Touring Frame - Yellow, 54;England
+71784;2008-06-01;119960.824;962;Touring-3000 Yellow, 50;England
+71784;2008-06-01;119960.824;895;LL Touring Frame - Blue, 50;England
+71784;2008-06-01;119960.824;957;Touring-1000 Yellow, 60;England
+71784;2008-06-01;119960.824;979;Touring-3000 Blue, 50;England
+71784;2008-06-01;119960.824;961;Touring-3000 Yellow, 44;England
+71784;2008-06-01;119960.824;963;Touring-3000 Yellow, 54;England
+71784;2008-06-01;119960.824;953;Touring-2000 Blue, 60;England
+71784;2008-06-01;119960.824;966;Touring-1000 Blue, 46;England
+71784;2008-06-01;119960.824;967;Touring-1000 Blue, 50;England
+71784;2008-06-01;119960.824;969;Touring-1000 Blue, 60;England
+71784;2008-06-01;119960.824;955;Touring-1000 Yellow, 50;England
+71784;2008-06-01;119960.824;916;HL Touring Seat/Saddle;England
+71784;2008-06-01;119960.824;896;LL Touring Frame - Blue, 54;England
+71784;2008-06-01;119960.824;900;LL Touring Frame - Yellow, 50;England
+71784;2008-06-01;119960.824;893;HL Touring Frame - Blue, 60;England
+71784;2008-06-01;119960.824;715;Long-Sleeve Logo Jersey, L;England
+71784;2008-06-01;119960.824;881;Short-Sleeve Classic Jersey, S;England
+71784;2008-06-01;119960.824;883;Short-Sleeve Classic Jersey, L;England
+71784;2008-06-01;119960.824;884;Short-Sleeve Classic Jersey, XL;England
+71784;2008-06-01;119960.824;859;Half-Finger Gloves, M;England
+71784;2008-06-01;119960.824;864;Classic Vest, S;England
+71784;2008-06-01;119960.824;880;Hydration Pack - 70 oz.;England
+71784;2008-06-01;119960.824;873;Patch Kit/8 Patches;England
+71784;2008-06-01;119960.824;707;Sport-100 Helmet, Red;England
+71784;2008-06-01;119960.824;708;Sport-100 Helmet, Black;England
+71796;2008-06-01;63686.2708;891;HL Touring Frame - Blue, 50;California
+71796;2008-06-01;63686.2708;972;Touring-2000 Blue, 54;California
+71796;2008-06-01;63686.2708;953;Touring-2000 Blue, 60;California
+71796;2008-06-01;63686.2708;916;HL Touring Seat/Saddle;California
+71796;2008-06-01;63686.2708;958;Touring-3000 Blue, 54;California
+71796;2008-06-01;63686.2708;957;Touring-1000 Yellow, 60;California
+71796;2008-06-01;63686.2708;969;Touring-1000 Blue, 60;California
+71796;2008-06-01;63686.2708;967;Touring-1000 Blue, 50;California
+71796;2008-06-01;63686.2708;979;Touring-3000 Blue, 50;California
+71796;2008-06-01;63686.2708;961;Touring-3000 Yellow, 44;California
+71796;2008-06-01;63686.2708;965;Touring-3000 Yellow, 62;California
+71796;2008-06-01;63686.2708;970;Touring-2000 Blue, 46;California
+71796;2008-06-01;63686.2708;954;Touring-1000 Yellow, 46;California
+71796;2008-06-01;63686.2708;955;Touring-1000 Yellow, 50;California
+71796;2008-06-01;63686.2708;947;HL Touring Handlebars;California
+71796;2008-06-01;63686.2708;899;LL Touring Frame - Yellow, 44;California
+71796;2008-06-01;63686.2708;900;LL Touring Frame - Yellow, 50;California
+71796;2008-06-01;63686.2708;892;HL Touring Frame - Blue, 54;California
+71796;2008-06-01;63686.2708;893;HL Touring Frame - Blue, 60;California
+71796;2008-06-01;63686.2708;885;HL Touring Frame - Yellow, 60;California
+71797;2008-06-01;86222.8072;711;Sport-100 Helmet, Blue;England
+71797;2008-06-01;86222.8072;838;HL Road Frame - Black, 44;England
+71797;2008-06-01;86222.8072;714;Long-Sleeve Logo Jersey, M;England
+71797;2008-06-01;86222.8072;940;HL Road Pedal;England
+71797;2008-06-01;86222.8072;883;Short-Sleeve Classic Jersey, L;England
+71797;2008-06-01;86222.8072;913;HL Road Seat/Saddle;England
+71797;2008-06-01;86222.8072;738;LL Road Frame - Black, 52;England
+71797;2008-06-01;86222.8072;722;LL Road Frame - Black, 58;England
+71797;2008-06-01;86222.8072;835;ML Road Frame-W - Yellow, 44;England
+71797;2008-06-01;86222.8072;718;HL Road Frame - Red, 44;England
+71797;2008-06-01;86222.8072;715;Long-Sleeve Logo Jersey, L;England
+71797;2008-06-01;86222.8072;716;Long-Sleeve Logo Jersey, XL;England
+71797;2008-06-01;86222.8072;884;Short-Sleeve Classic Jersey, XL;England
+71797;2008-06-01;86222.8072;875;Racing Socks, L;England
+71797;2008-06-01;86222.8072;860;Half-Finger Gloves, L;England
+71797;2008-06-01;86222.8072;712;AWC Logo Cap;England
+71797;2008-06-01;86222.8072;880;Hydration Pack - 70 oz.;England
+71797;2008-06-01;86222.8072;873;Patch Kit/8 Patches;England
+71797;2008-06-01;86222.8072;876;Hitch Rack - 4-Bike;England
+71797;2008-06-01;86222.8072;977;Road-750 Black, 58;England
+71797;2008-06-01;86222.8072;798;Road-550-W Yellow, 40;England
+71797;2008-06-01;86222.8072;813;HL Road Handlebars;England
+71797;2008-06-01;86222.8072;939;ML Road Pedal;England
+71797;2008-06-01;86222.8072;801;Road-550-W Yellow, 48;England
+71797;2008-06-01;86222.8072;998;Road-750 Black, 48;England
+71797;2008-06-01;86222.8072;999;Road-750 Black, 52;England
+71797;2008-06-01;86222.8072;938;LL Road Pedal;England
+71797;2008-06-01;86222.8072;794;Road-250 Black, 48;England
+71797;2008-06-01;86222.8072;795;Road-250 Black, 52;England
+71797;2008-06-01;86222.8072;797;Road-550-W Yellow, 38;England
+71797;2008-06-01;86222.8072;881;Short-Sleeve Classic Jersey, S;England
+71797;2008-06-01;86222.8072;865;Classic Vest, M;England
+71797;2008-06-01;86222.8072;864;Classic Vest, S;England
+71797;2008-06-01;86222.8072;976;Road-350-W Yellow, 48;England
+71797;2008-06-01;86222.8072;877;Bike Wash - Dissolver;England
+71797;2008-06-01;86222.8072;793;Road-250 Black, 44;England
+71797;2008-06-01;86222.8072;974;Road-350-W Yellow, 42;England
+71797;2008-06-01;86222.8072;707;Sport-100 Helmet, Red;England
+71797;2008-06-01;86222.8072;859;Half-Finger Gloves, M;England
+71797;2008-06-01;86222.8072;973;Road-350-W Yellow, 40;England
+71797;2008-06-01;86222.8072;870;Water Bottle - 30 oz.;England
+71797;2008-06-01;86222.8072;717;HL Road Frame - Red, 62;England
+71797;2008-06-01;86222.8072;858;Half-Finger Gloves, S;England
+71797;2008-06-01;86222.8072;836;ML Road Frame-W - Yellow, 48;England
+71797;2008-06-01;86222.8072;708;Sport-100 Helmet, Black;England
+71797;2008-06-01;86222.8072;822;ML Road Frame-W - Yellow, 38;England
+71815;2008-06-01;1261.444;738;LL Road Frame - Black, 52;California
+71815;2008-06-01;1261.444;835;ML Road Frame-W - Yellow, 44;California
+71815;2008-06-01;1261.444;874;Racing Socks, M;California
+71816;2008-06-01;3754.9733;953;Touring-2000 Blue, 60;California
+71816;2008-06-01;3754.9733;954;Touring-1000 Yellow, 46;California
+71816;2008-06-01;3754.9733;715;Long-Sleeve Logo Jersey, L;California
+71816;2008-06-01;3754.9733;712;AWC Logo Cap;California
+71816;2008-06-01;3754.9733;883;Short-Sleeve Classic Jersey, L;California
+71816;2008-06-01;3754.9733;961;Touring-3000 Yellow, 44;California
+71816;2008-06-01;3754.9733;948;Front Brakes;California
+71831;2008-06-01;2228.0566;869;Women's Mountain Shorts, L;England
+71831;2008-06-01;2228.0566;782;Mountain-200 Black, 38;England
+71831;2008-06-01;2228.0566;867;Women's Mountain Shorts, S;England
+71832;2008-06-01;39531.6085;918;LL Mountain Frame - Silver, 44;England
+71832;2008-06-01;39531.6085;983;Mountain-400-W Silver, 46;England
+71832;2008-06-01;39531.6085;781;Mountain-200 Silver, 46;England
+71832;2008-06-01;39531.6085;868;Women's Mountain Shorts, M;England
+71832;2008-06-01;39531.6085;810;HL Mountain Handlebars;England
+71832;2008-06-01;39531.6085;980;Mountain-400-W Silver, 38;England
+71832;2008-06-01;39531.6085;925;LL Mountain Frame - Black, 44;England
+71832;2008-06-01;39531.6085;985;Mountain-500 Silver, 42;England
+71832;2008-06-01;39531.6085;908;LL Mountain Seat/Saddle;England
+71832;2008-06-01;39531.6085;867;Women's Mountain Shorts, S;England
+71832;2008-06-01;39531.6085;782;Mountain-200 Black, 38;England
+71832;2008-06-01;39531.6085;937;HL Mountain Pedal;England
+71832;2008-06-01;39531.6085;936;ML Mountain Pedal;England
+71832;2008-06-01;39531.6085;743;HL Mountain Frame - Black, 42;England
+71832;2008-06-01;39531.6085;904;ML Mountain Frame-W - Silver, 40;England
+71832;2008-06-01;39531.6085;748;HL Mountain Frame - Silver, 38;England
+71832;2008-06-01;39531.6085;910;HL Mountain Seat/Saddle;England
+71832;2008-06-01;39531.6085;784;Mountain-200 Black, 46;England
+71832;2008-06-01;39531.6085;990;Mountain-500 Black, 42;England
+71832;2008-06-01;39531.6085;992;Mountain-500 Black, 48;England
+71832;2008-06-01;39531.6085;984;Mountain-500 Silver, 40;England
+71832;2008-06-01;39531.6085;779;Mountain-200 Silver, 38;England
+71832;2008-06-01;39531.6085;780;Mountain-200 Silver, 42;England
+71832;2008-06-01;39531.6085;944;LL Mountain Frame - Silver, 40;England
+71832;2008-06-01;39531.6085;808;LL Mountain Handlebars;England
+71832;2008-06-01;39531.6085;809;ML Mountain Handlebars;England
+71832;2008-06-01;39531.6085;935;LL Mountain Pedal;England
+71832;2008-06-01;39531.6085;926;LL Mountain Frame - Black, 48;England
+71832;2008-06-01;39531.6085;917;LL Mountain Frame - Silver, 42;England
+71832;2008-06-01;39531.6085;920;LL Mountain Frame - Silver, 52;England
+71845;2008-06-01;45992.3665;988;Mountain-500 Silver, 52;California
+71845;2008-06-01;45992.3665;948;Front Brakes;California
+71845;2008-06-01;45992.3665;904;ML Mountain Frame-W - Silver, 40;California
+71845;2008-06-01;45992.3665;742;HL Mountain Frame - Silver, 46;California
+71845;2008-06-01;45992.3665;780;Mountain-200 Silver, 42;California
+71845;2008-06-01;45992.3665;945;Front Derailleur;California
+71845;2008-06-01;45992.3665;949;LL Crankset;California
+71845;2008-06-01;45992.3665;937;HL Mountain Pedal;California
+71845;2008-06-01;45992.3665;867;Women's Mountain Shorts, S;California
+71845;2008-06-01;45992.3665;748;HL Mountain Frame - Silver, 38;California
+71845;2008-06-01;45992.3665;905;ML Mountain Frame-W - Silver, 42;California
+71845;2008-06-01;45992.3665;781;Mountain-200 Silver, 46;California
+71845;2008-06-01;45992.3665;869;Women's Mountain Shorts, L;California
+71845;2008-06-01;45992.3665;783;Mountain-200 Black, 42;California
+71845;2008-06-01;45992.3665;784;Mountain-200 Black, 46;California
+71845;2008-06-01;45992.3665;951;HL Crankset;California
+71845;2008-06-01;45992.3665;747;HL Mountain Frame - Black, 38;California
+71845;2008-06-01;45992.3665;809;ML Mountain Handlebars;California
+71845;2008-06-01;45992.3665;920;LL Mountain Frame - Silver, 52;California
+71845;2008-06-01;45992.3665;743;HL Mountain Frame - Black, 42;California
+71845;2008-06-01;45992.3665;715;Long-Sleeve Logo Jersey, L;California
+71845;2008-06-01;45992.3665;944;LL Mountain Frame - Silver, 40;California
+71845;2008-06-01;45992.3665;808;LL Mountain Handlebars;California
+71845;2008-06-01;45992.3665;909;ML Mountain Seat/Saddle;California
+71845;2008-06-01;45992.3665;925;LL Mountain Frame - Black, 44;California
+71845;2008-06-01;45992.3665;782;Mountain-200 Black, 38;California
+71845;2008-06-01;45992.3665;910;HL Mountain Seat/Saddle;California
+71845;2008-06-01;45992.3665;996;HL Bottom Bracket;California
+71845;2008-06-01;45992.3665;779;Mountain-200 Silver, 38;California
+71845;2008-06-01;45992.3665;924;LL Mountain Frame - Black, 42;California
+71845;2008-06-01;45992.3665;952;Chain;California
+71846;2008-06-01;2711.4098;936;ML Mountain Pedal;England
+71846;2008-06-01;2711.4098;739;HL Mountain Frame - Silver, 42;England
+71846;2008-06-01;2711.4098;984;Mountain-500 Silver, 40;England
+71846;2008-06-01;2711.4098;981;Mountain-400-W Silver, 40;England
+71856;2008-06-01;665.4251;962;Touring-3000 Yellow, 50;Utah
+71856;2008-06-01;665.4251;945;Front Derailleur;Utah
+71858;2008-06-01;15275.1977;979;Touring-3000 Blue, 50;New Mexico
+71858;2008-06-01;15275.1977;962;Touring-3000 Yellow, 50;New Mexico
+71858;2008-06-01;15275.1977;953;Touring-2000 Blue, 60;New Mexico
+71858;2008-06-01;15275.1977;715;Long-Sleeve Logo Jersey, L;New Mexico
+71858;2008-06-01;15275.1977;883;Short-Sleeve Classic Jersey, L;New Mexico
+71858;2008-06-01;15275.1977;957;Touring-1000 Yellow, 60;New Mexico
+71858;2008-06-01;15275.1977;965;Touring-3000 Yellow, 62;New Mexico
+71858;2008-06-01;15275.1977;952;Chain;New Mexico
+71858;2008-06-01;15275.1977;948;Front Brakes;New Mexico
+71858;2008-06-01;15275.1977;945;Front Derailleur;New Mexico
+71858;2008-06-01;15275.1977;972;Touring-2000 Blue, 54;New Mexico
+71858;2008-06-01;15275.1977;877;Bike Wash - Dissolver;New Mexico
+71858;2008-06-01;15275.1977;958;Touring-3000 Blue, 54;New Mexico
+71858;2008-06-01;15275.1977;969;Touring-1000 Blue, 60;New Mexico
+71858;2008-06-01;15275.1977;961;Touring-3000 Yellow, 44;New Mexico
+71858;2008-06-01;15275.1977;966;Touring-1000 Blue, 46;New Mexico
+71858;2008-06-01;15275.1977;712;AWC Logo Cap;New Mexico
+71863;2008-06-01;3673.3249;875;Racing Socks, L;California
+71863;2008-06-01;3673.3249;874;Racing Socks, M;California
+71863;2008-06-01;3673.3249;998;Road-750 Black, 48;California
+71863;2008-06-01;3673.3249;973;Road-350-W Yellow, 40;California
+71863;2008-06-01;3673.3249;711;Sport-100 Helmet, Blue;California
+71863;2008-06-01;3673.3249;999;Road-750 Black, 52;California
+71863;2008-06-01;3673.3249;938;LL Road Pedal;California
+71867;2008-06-01;1170.5376;717;HL Road Frame - Red, 62;England
+71885;2008-06-01;608.1766;876;Hitch Rack - 4-Bike;England
+71885;2008-06-01;608.1766;884;Short-Sleeve Classic Jersey, XL;England
+71885;2008-06-01;608.1766;864;Classic Vest, S;England
+71895;2008-06-01;272.6468;909;ML Mountain Seat/Saddle;California
+71895;2008-06-01;272.6468;715;Long-Sleeve Logo Jersey, L;California
+71895;2008-06-01;272.6468;864;Classic Vest, S;California
+71897;2008-06-01;14017.9083;966;Touring-1000 Blue, 46;Colorado
+71897;2008-06-01;14017.9083;979;Touring-3000 Blue, 50;Colorado
+71897;2008-06-01;14017.9083;969;Touring-1000 Blue, 60;Colorado
+71897;2008-06-01;14017.9083;884;Short-Sleeve Classic Jersey, XL;Colorado
+71897;2008-06-01;14017.9083;712;AWC Logo Cap;Colorado
+71897;2008-06-01;14017.9083;954;Touring-1000 Yellow, 46;Colorado
+71897;2008-06-01;14017.9083;864;Classic Vest, S;Colorado
+71897;2008-06-01;14017.9083;948;Front Brakes;Colorado
+71898;2008-06-01;70698.9922;969;Touring-1000 Blue, 60;England
+71898;2008-06-01;70698.9922;978;Touring-3000 Blue, 44;England
+71898;2008-06-01;70698.9922;996;HL Bottom Bracket;England
+71898;2008-06-01;70698.9922;967;Touring-1000 Blue, 50;England
+71898;2008-06-01;70698.9922;970;Touring-2000 Blue, 46;England
+71898;2008-06-01;70698.9922;956;Touring-1000 Yellow, 54;England
+71898;2008-06-01;70698.9922;960;Touring-3000 Blue, 62;England
+71898;2008-06-01;70698.9922;994;LL Bottom Bracket;England
+71898;2008-06-01;70698.9922;959;Touring-3000 Blue, 58;England
+71898;2008-06-01;70698.9922;968;Touring-1000 Blue, 54;England
+71898;2008-06-01;70698.9922;966;Touring-1000 Blue, 46;England
+71898;2008-06-01;70698.9922;972;Touring-2000 Blue, 54;England
+71898;2008-06-01;70698.9922;949;LL Crankset;England
+71898;2008-06-01;70698.9922;958;Touring-3000 Blue, 54;England
+71898;2008-06-01;70698.9922;945;Front Derailleur;England
+71898;2008-06-01;70698.9922;971;Touring-2000 Blue, 50;England
+71898;2008-06-01;70698.9922;953;Touring-2000 Blue, 60;England
+71898;2008-06-01;70698.9922;889;HL Touring Frame - Yellow, 54;England
+71898;2008-06-01;70698.9922;955;Touring-1000 Yellow, 50;England
+71898;2008-06-01;70698.9922;964;Touring-3000 Yellow, 58;England
+71898;2008-06-01;70698.9922;916;HL Touring Seat/Saddle;England
+71898;2008-06-01;70698.9922;948;Front Brakes;England
+71898;2008-06-01;70698.9922;979;Touring-3000 Blue, 50;England
+71898;2008-06-01;70698.9922;951;HL Crankset;England
+71898;2008-06-01;70698.9922;954;Touring-1000 Yellow, 46;England
+71898;2008-06-01;70698.9922;952;Chain;England
+71898;2008-06-01;70698.9922;965;Touring-3000 Yellow, 62;England
+71898;2008-06-01;70698.9922;961;Touring-3000 Yellow, 44;England
+71899;2008-06-01;2669.3183;881;Short-Sleeve Classic Jersey, S;California
+71899;2008-06-01;2669.3183;988;Mountain-500 Silver, 52;California
+71899;2008-06-01;2669.3183;981;Mountain-400-W Silver, 40;California
+71899;2008-06-01;2669.3183;743;HL Mountain Frame - Black, 42;California
+71899;2008-06-01;2669.3183;808;LL Mountain Handlebars;California
+71899;2008-06-01;2669.3183;714;Long-Sleeve Logo Jersey, M;California
+71899;2008-06-01;2669.3183;944;LL Mountain Frame - Silver, 40;California
+71899;2008-06-01;2669.3183;937;HL Mountain Pedal;California
+71902;2008-06-01;81834.9826;780;Mountain-200 Silver, 42;California
+71902;2008-06-01;81834.9826;981;Mountain-400-W Silver, 40;California
+71902;2008-06-01;81834.9826;904;ML Mountain Frame-W - Silver, 40;California
+71902;2008-06-01;81834.9826;987;Mountain-500 Silver, 48;California
+71902;2008-06-01;81834.9826;783;Mountain-200 Black, 42;California
+71902;2008-06-01;81834.9826;781;Mountain-200 Silver, 46;California
+71902;2008-06-01;81834.9826;859;Half-Finger Gloves, M;California
+71902;2008-06-01;81834.9826;869;Women's Mountain Shorts, L;California
+71902;2008-06-01;81834.9826;908;LL Mountain Seat/Saddle;California
+71902;2008-06-01;81834.9826;712;AWC Logo Cap;California
+71902;2008-06-01;81834.9826;925;LL Mountain Frame - Black, 44;California
+71902;2008-06-01;81834.9826;937;HL Mountain Pedal;California
+71902;2008-06-01;81834.9826;992;Mountain-500 Black, 48;California
+71902;2008-06-01;81834.9826;980;Mountain-400-W Silver, 38;California
+71902;2008-06-01;81834.9826;715;Long-Sleeve Logo Jersey, L;California
+71902;2008-06-01;81834.9826;935;LL Mountain Pedal;California
+71902;2008-06-01;81834.9826;989;Mountain-500 Black, 40;California
+71902;2008-06-01;81834.9826;984;Mountain-500 Silver, 40;California
+71902;2008-06-01;81834.9826;982;Mountain-400-W Silver, 42;California
+71902;2008-06-01;81834.9826;782;Mountain-200 Black, 38;California
+71902;2008-06-01;81834.9826;784;Mountain-200 Black, 46;California
+71902;2008-06-01;81834.9826;810;HL Mountain Handlebars;California
+71902;2008-06-01;81834.9826;926;LL Mountain Frame - Black, 48;California
+71902;2008-06-01;81834.9826;714;Long-Sleeve Logo Jersey, M;California
+71902;2008-06-01;81834.9826;870;Water Bottle - 30 oz.;California
+71902;2008-06-01;81834.9826;876;Hitch Rack - 4-Bike;California
+71902;2008-06-01;81834.9826;877;Bike Wash - Dissolver;California
+71902;2008-06-01;81834.9826;707;Sport-100 Helmet, Red;California
+71902;2008-06-01;81834.9826;993;Mountain-500 Black, 52;California
+71902;2008-06-01;81834.9826;864;Classic Vest, S;California
+71902;2008-06-01;81834.9826;867;Women's Mountain Shorts, S;California
+71902;2008-06-01;81834.9826;809;ML Mountain Handlebars;California
+71902;2008-06-01;81834.9826;988;Mountain-500 Silver, 52;California
+71902;2008-06-01;81834.9826;880;Hydration Pack - 70 oz.;California
+71902;2008-06-01;81834.9826;936;ML Mountain Pedal;California
+71902;2008-06-01;81834.9826;708;Sport-100 Helmet, Black;California
+71902;2008-06-01;81834.9826;779;Mountain-200 Silver, 38;California
+71902;2008-06-01;81834.9826;991;Mountain-500 Black, 44;California
+71902;2008-06-01;81834.9826;883;Short-Sleeve Classic Jersey, L;California
+71902;2008-06-01;81834.9826;910;HL Mountain Seat/Saddle;California
+71902;2008-06-01;81834.9826;881;Short-Sleeve Classic Jersey, S;California
+71902;2008-06-01;81834.9826;985;Mountain-500 Silver, 42;California
+71902;2008-06-01;81834.9826;711;Sport-100 Helmet, Blue;California
+71902;2008-06-01;81834.9826;986;Mountain-500 Silver, 44;California
+71902;2008-06-01;81834.9826;748;HL Mountain Frame - Silver, 38;California
+71902;2008-06-01;81834.9826;884;Short-Sleeve Classic Jersey, XL;California
+71902;2008-06-01;81834.9826;918;LL Mountain Frame - Silver, 44;California
+71902;2008-06-01;81834.9826;905;ML Mountain Frame-W - Silver, 42;California
+71902;2008-06-01;81834.9826;983;Mountain-400-W Silver, 46;California
+71902;2008-06-01;81834.9826;865;Classic Vest, M;California
+71915;2008-06-01;2361.6403;836;ML Road Frame-W - Yellow, 48;California
+71915;2008-06-01;2361.6403;738;LL Road Frame - Black, 52;California
+71915;2008-06-01;2361.6403;938;LL Road Pedal;California
+71915;2008-06-01;2361.6403;939;ML Road Pedal;California
+71915;2008-06-01;2361.6403;940;HL Road Pedal;California
+71917;2008-06-01;45.1995;875;Racing Socks, L;England
+71920;2008-06-01;3293.7761;973;Road-350-W Yellow, 40;California
+71920;2008-06-01;3293.7761;938;LL Road Pedal;California
+71920;2008-06-01;3293.7761;976;Road-350-W Yellow, 48;California
+71920;2008-06-01;3293.7761;884;Short-Sleeve Classic Jersey, XL;California
+71920;2008-06-01;3293.7761;864;Classic Vest, S;California
+71920;2008-06-01;3293.7761;876;Hitch Rack - 4-Bike;California
+71923;2008-06-01;117.7276;870;Water Bottle - 30 oz.;California
+71923;2008-06-01;117.7276;874;Racing Socks, M;California
+71923;2008-06-01;117.7276;875;Racing Socks, L;California
+71935;2008-06-01;7330.8972;874;Racing Socks, M;Nevada
+71935;2008-06-01;7330.8972;938;LL Road Pedal;Nevada
+71935;2008-06-01;7330.8972;973;Road-350-W Yellow, 40;Nevada
+71935;2008-06-01;7330.8972;976;Road-350-W Yellow, 48;Nevada
+71935;2008-06-01;7330.8972;998;Road-750 Black, 48;Nevada
+71935;2008-06-01;7330.8972;875;Racing Socks, L;Nevada
+71936;2008-06-01;108597.9536;944;LL Mountain Frame - Silver, 40;England
+71936;2008-06-01;108597.9536;985;Mountain-500 Silver, 42;England
+71936;2008-06-01;108597.9536;996;HL Bottom Bracket;England
+71936;2008-06-01;108597.9536;707;Sport-100 Helmet, Red;England
+71936;2008-06-01;108597.9536;926;LL Mountain Frame - Black, 48;England
+71936;2008-06-01;108597.9536;808;LL Mountain Handlebars;England
+71936;2008-06-01;108597.9536;992;Mountain-500 Black, 48;England
+71936;2008-06-01;108597.9536;951;HL Crankset;England
+71936;2008-06-01;108597.9536;780;Mountain-200 Silver, 42;England
+71936;2008-06-01;108597.9536;905;ML Mountain Frame-W - Silver, 42;England
+71936;2008-06-01;108597.9536;747;HL Mountain Frame - Black, 38;England
+71936;2008-06-01;108597.9536;867;Women's Mountain Shorts, S;England
+71936;2008-06-01;108597.9536;935;LL Mountain Pedal;England
+71936;2008-06-01;108597.9536;945;Front Derailleur;England
+71936;2008-06-01;108597.9536;924;LL Mountain Frame - Black, 42;England
+71936;2008-06-01;108597.9536;783;Mountain-200 Black, 42;England
+71936;2008-06-01;108597.9536;784;Mountain-200 Black, 46;England
+71936;2008-06-01;108597.9536;748;HL Mountain Frame - Silver, 38;England
+71936;2008-06-01;108597.9536;981;Mountain-400-W Silver, 40;England
+71936;2008-06-01;108597.9536;894;Rear Derailleur;England
+71936;2008-06-01;108597.9536;779;Mountain-200 Silver, 38;England
+71936;2008-06-01;108597.9536;782;Mountain-200 Black, 38;England
+71936;2008-06-01;108597.9536;869;Women's Mountain Shorts, L;England
+71936;2008-06-01;108597.9536;952;Chain;England
+71936;2008-06-01;108597.9536;949;LL Crankset;England
+71936;2008-06-01;108597.9536;937;HL Mountain Pedal;England
+71936;2008-06-01;108597.9536;910;HL Mountain Seat/Saddle;England
+71936;2008-06-01;108597.9536;917;LL Mountain Frame - Silver, 42;England
+71936;2008-06-01;108597.9536;994;LL Bottom Bracket;England
+71936;2008-06-01;108597.9536;984;Mountain-500 Silver, 40;England
+71936;2008-06-01;108597.9536;860;Half-Finger Gloves, L;England
+71936;2008-06-01;108597.9536;948;Front Brakes;England
+71936;2008-06-01;108597.9536;925;LL Mountain Frame - Black, 44;England
+71936;2008-06-01;108597.9536;908;LL Mountain Seat/Saddle;England
+71936;2008-06-01;108597.9536;918;LL Mountain Frame - Silver, 44;England
+71936;2008-06-01;108597.9536;743;HL Mountain Frame - Black, 42;England
+71936;2008-06-01;108597.9536;739;HL Mountain Frame - Silver, 42;England
+71936;2008-06-01;108597.9536;987;Mountain-500 Silver, 48;England
+71936;2008-06-01;108597.9536;809;ML Mountain Handlebars;England
+71936;2008-06-01;108597.9536;904;ML Mountain Frame-W - Silver, 40;England
+71936;2008-06-01;108597.9536;781;Mountain-200 Silver, 46;England
+71936;2008-06-01;108597.9536;868;Women's Mountain Shorts, M;England
+71936;2008-06-01;108597.9536;988;Mountain-500 Silver, 52;England
+71936;2008-06-01;108597.9536;742;HL Mountain Frame - Silver, 46;England
+71936;2008-06-01;108597.9536;936;ML Mountain Pedal;England
+71936;2008-06-01;108597.9536;909;ML Mountain Seat/Saddle;England
+71938;2008-06-01;98138.2131;973;Road-350-W Yellow, 40;England
+71938;2008-06-01;98138.2131;876;Hitch Rack - 4-Bike;England
+71938;2008-06-01;98138.2131;835;ML Road Frame-W - Yellow, 44;England
+71938;2008-06-01;98138.2131;974;Road-350-W Yellow, 42;England
+71938;2008-06-01;98138.2131;707;Sport-100 Helmet, Red;England
+71938;2008-06-01;98138.2131;813;HL Road Handlebars;England
+71938;2008-06-01;98138.2131;938;LL Road Pedal;England
+71938;2008-06-01;98138.2131;884;Short-Sleeve Classic Jersey, XL;England
+71938;2008-06-01;98138.2131;711;Sport-100 Helmet, Blue;England
+71938;2008-06-01;98138.2131;712;AWC Logo Cap;England
+71938;2008-06-01;98138.2131;940;HL Road Pedal;England
+71938;2008-06-01;98138.2131;792;Road-250 Red, 58;England
+71938;2008-06-01;98138.2131;976;Road-350-W Yellow, 48;England
+71938;2008-06-01;98138.2131;798;Road-550-W Yellow, 40;England
+71938;2008-06-01;98138.2131;799;Road-550-W Yellow, 42;England
+71938;2008-06-01;98138.2131;864;Classic Vest, S;England
+71938;2008-06-01;98138.2131;714;Long-Sleeve Logo Jersey, M;England
+71938;2008-06-01;98138.2131;999;Road-750 Black, 52;England
+71938;2008-06-01;98138.2131;998;Road-750 Black, 48;England
+71938;2008-06-01;98138.2131;877;Bike Wash - Dissolver;England
+71938;2008-06-01;98138.2131;796;Road-250 Black, 58;England
+71938;2008-06-01;98138.2131;708;Sport-100 Helmet, Black;England
+71938;2008-06-01;98138.2131;865;Classic Vest, M;England
+71938;2008-06-01;98138.2131;738;LL Road Frame - Black, 52;England
+71938;2008-06-01;98138.2131;883;Short-Sleeve Classic Jersey, L;England
+71938;2008-06-01;98138.2131;997;Road-750 Black, 44;England
+71938;2008-06-01;98138.2131;870;Water Bottle - 30 oz.;England
+71938;2008-06-01;98138.2131;795;Road-250 Black, 52;England
+71938;2008-06-01;98138.2131;874;Racing Socks, M;England
+71938;2008-06-01;98138.2131;859;Half-Finger Gloves, M;England
+71938;2008-06-01;98138.2131;975;Road-350-W Yellow, 44;England
+71938;2008-06-01;98138.2131;793;Road-250 Black, 44;England
+71938;2008-06-01;98138.2131;797;Road-550-W Yellow, 38;England
+71938;2008-06-01;98138.2131;880;Hydration Pack - 70 oz.;England
+71938;2008-06-01;98138.2131;977;Road-750 Black, 58;England
+71938;2008-06-01;98138.2131;801;Road-550-W Yellow, 48;England
+71938;2008-06-01;98138.2131;794;Road-250 Black, 48;England
+71938;2008-06-01;98138.2131;939;ML Road Pedal;England
+71938;2008-06-01;98138.2131;715;Long-Sleeve Logo Jersey, L;England
+71938;2008-06-01;98138.2131;881;Short-Sleeve Classic Jersey, S;England
+71938;2008-06-01;98138.2131;875;Racing Socks, L;England
+71938;2008-06-01;98138.2131;800;Road-550-W Yellow, 44;England
+71946;2008-06-01;43.0437;916;HL Touring Seat/Saddle;England
